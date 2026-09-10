@@ -1,0 +1,8 @@
+{
+  "sites": [
+      "https://example.com",
+      "https://python.org",
+      "https://github.com"
+  ],
+  "check_interval": 60
+}

@@ -3,160 +3,224 @@
         "url": "https://example.com",
         "available": true,
         "status_code": 200,
-        "response_time": 0.4106696,
+        "response_time": 0.2648898,
         "error": null,
-        "checked_at": "2026-09-05T00:08:50"
+        "checked_at": "2026-09-10T14:33:43"
     },
     {
         "url": "https://python.org",
         "available": true,
         "status_code": 200,
-        "response_time": 1.2066244999999998,
+        "response_time": 0.6079376999999999,
         "error": null,
-        "checked_at": "2026-09-05T00:08:50"
+        "checked_at": "2026-09-10T14:33:43"
     },
     {
         "url": "https://github.com",
         "available": true,
         "status_code": 200,
-        "response_time": 1.0270935,
+        "response_time": 0.6227532,
         "error": null,
-        "checked_at": "2026-09-05T00:08:52"
+        "checked_at": "2026-09-10T14:33:44"
     },
     {
         "url": "https://example.com",
         "available": true,
         "status_code": 200,
-        "response_time": 0.37715279999999995,
+        "response_time": 0.3005751,
         "error": null,
-        "checked_at": "2026-09-05T00:09:21"
+        "checked_at": "2026-09-10T14:33:46"
     },
     {
         "url": "https://python.org",
         "available": true,
         "status_code": 200,
-        "response_time": 0.7476874,
+        "response_time": 0.6791313000000001,
         "error": null,
-        "checked_at": "2026-09-05T00:09:21"
+        "checked_at": "2026-09-10T14:33:47"
     },
     {
         "url": "https://github.com",
         "available": true,
         "status_code": 200,
-        "response_time": 0.8908513999999998,
+        "response_time": 0.5887287000000001,
         "error": null,
-        "checked_at": "2026-09-05T00:09:22"
+        "checked_at": "2026-09-10T14:33:47"
     },
     {
         "url": "https://example.com",
         "available": true,
         "status_code": 200,
-        "response_time": 0.3679883,
+        "response_time": 0.27306450000000004,
         "error": null,
-        "checked_at": "2026-09-05T00:09:49"
+        "checked_at": "2026-09-10T14:48:30"
     },
     {
-        "url": "https://pyton.org",
+        "url": "https://python.org",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.8088618000000001,
+        "error": null,
+        "checked_at": "2026-09-10T14:48:31"
+    },
+    {
+        "url": "https://github.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.7158038999999998,
+        "error": null,
+        "checked_at": "2026-09-10T14:48:32"
+    },
+    {
+        "url": "https://example.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 2.1607091,
+        "error": null,
+        "checked_at": "2026-09-10T14:49:47"
+    },
+    {
+        "url": "https://python.org",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.8158856000000001,
+        "error": null,
+        "checked_at": "2026-09-10T14:49:49"
+    },
+    {
+        "url": "https://github.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 1.4487549,
+        "error": null,
+        "checked_at": "2026-09-10T14:49:50"
+    },
+    {
+        "url": "https://example.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.280623,
+        "error": null,
+        "checked_at": "2026-09-10T14:52:48"
+    },
+    {
+        "url": "https://python.org",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.7378533,
+        "error": null,
+        "checked_at": "2026-09-10T14:52:48"
+    },
+    {
+        "url": "https://github.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.7283032000000003,
+        "error": null,
+        "checked_at": "2026-09-10T14:52:49"
+    },
+    {
+        "url": "https://openai.com",
         "available": false,
-        "status_code": 401,
-        "response_time": 2.0353311,
+        "status_code": 403,
+        "response_time": 0.3494402999999999,
         "error": null,
-        "checked_at": "2026-09-05T00:09:49"
+        "checked_at": "2026-09-10T14:52:50"
+    },
+    {
+        "url": "https://example.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.2561479,
+        "error": null,
+        "checked_at": "2026-09-10T15:10:39"
+    },
+    {
+        "url": "https://python.org",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.8743345,
+        "error": null,
+        "checked_at": "2026-09-10T15:10:39"
     },
     {
         "url": "https://github.com",
         "available": true,
         "status_code": 200,
-        "response_time": 1.0258098000000002,
+        "response_time": 0.6759397,
         "error": null,
-        "checked_at": "2026-09-05T00:09:51"
+        "checked_at": "2026-09-10T15:10:40"
     },
     {
-        "url": "https://example.com",
-        "available": true,
-        "status_code": 200,
-        "response_time": 0.43025610000000003,
-        "error": null,
-        "checked_ad": "2026-09-05T00:11:08"
-    },
-    {
-        "url": "https://python.org",
-        "available": true,
-        "status_code": 200,
-        "response_time": 1.1028137999999998,
-        "error": null,
-        "checked_ad": "2026-09-05T00:11:08"
-    },
-    {
-        "url": "https://github.com",
-        "available": true,
-        "status_code": 200,
-        "response_time": 1.1650035,
-        "error": null,
-        "checked_ad": "2026-09-05T00:11:09"
-    },
-    {
-        "url": "https://example.com",
-        "available": true,
-        "status_code": 200,
-        "response_time": 0.4044418,
-        "error": null,
-        "checked_ad": "2026-09-05T00:11:21"
-    },
-    {
-        "url": "https://python.org",
-        "available": true,
-        "status_code": 200,
-        "response_time": 0.8246335999999999,
-        "error": null,
-        "checked_ad": "2026-09-05T00:11:22"
-    },
-    {
-        "url": "https://example.com",
-        "available": true,
-        "status_code": 200,
-        "response_time": 0.4384214,
-        "error": null,
-        "checked_at": "2026-09-05T00:12:42"
-    },
-    {
-        "url": "https://python.org",
-        "available": true,
-        "status_code": 200,
-        "response_time": 1.2191265,
-        "error": null,
-        "checked_at": "2026-09-05T00:12:43"
-    },
-    {
-        "url": "https://gitub.com",
+        "url": "https://openai.com",
         "available": false,
-        "status_code": null,
-        "response_time": null,
-        "error": "HTTPSConnectionPool(host='gitub.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1122)')))",
-        "checked_at": "2026-09-05T00:12:44"
+        "status_code": 403,
+        "response_time": 0.3236690000000002,
+        "error": null,
+        "checked_at": "2026-09-10T15:10:40"
     },
     {
         "url": "https://example.com",
         "available": true,
         "status_code": 200,
-        "response_time": 0.39874780000000004,
+        "response_time": 0.2669,
         "error": null,
-        "checked_at": "2026-09-05T00:14:13"
+        "checked_at": "2026-09-10T15:12:42"
     },
     {
         "url": "https://python.org",
         "available": true,
         "status_code": 200,
-        "response_time": 1.2267502,
+        "response_time": 0.7673886,
         "error": null,
-        "checked_at": "2026-09-05T00:14:13"
+        "checked_at": "2026-09-10T15:12:42"
+    },
+    {
+        "url": "https://example.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.36068239999999996,
+        "error": null,
+        "checked_at": "2026-09-10T16:06:08"
+    },
+    {
+        "url": "https://python.org",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.9973643000000001,
+        "error": null,
+        "checked_at": "2026-09-10T16:06:08"
     },
     {
         "url": "https://github.com",
         "available": true,
         "status_code": 200,
-        "response_time": 0.9627214999999998,
+        "response_time": 0.7558282000000001,
         "error": null,
-        "checked_at": "2026-09-05T00:14:15"
+        "checked_at": "2026-09-10T16:06:09"
+    },
+    {
+        "url": "https://example.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.35491059999999996,
+        "error": null,
+        "checked_at": "2026-09-10T16:09:58"
+    },
+    {
+        "url": "https://python.org",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.7817866999999998,
+        "error": null,
+        "checked_at": "2026-09-10T16:09:58"
+    },
+    {
+        "url": "https://github.com",
+        "available": true,
+        "status_code": 200,
+        "response_time": 0.8796735000000002,
+        "error": null,
+        "checked_at": "2026-09-10T16:09:59"
     }
 ]
